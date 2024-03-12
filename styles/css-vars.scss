@@ -1,0 +1,37 @@
+// you can custom css vars here
+:root {
+    /* 背景图片 */
+    --yun-bg-img: url("https://i2.100024.xyz/2024/03/12/brhczm.webp");
+    /* 侧边栏背景图片 */
+    --yun-sidebar-bg-img: url("https://cdn.yunyoujun.cn/img/bg/alpha-stars-timing-1.webp");
+}
+
+.site-author-status {
+    display: none;
+}
+
+.site-author-name a {
+    display: none;
+}
+
+.site-nav+hr {
+    display: none;
+}
+
+button[title="切换亮色模式"] {
+    display: none;
+}
+
+button[title="切换语言"] {
+    display: none;
+}
+
+.outline-title {
+    display: none;
+}
+
+.post-copyright{
+    display: none;
+}
+
+.copyright {display: none !important;}
