@@ -2,7 +2,7 @@
 title: 关于站点
 sponsor: true
 comment: true
-end: flase
+end: false
 ---
 
 <!-- ## 理念 -->
@@ -11,7 +11,7 @@ end: flase
 | 对象 | 缘由 |
 | ------- | ---- |
 | [云游君](https://www.yunyoujun.cn/) | 本博客基于其 [Valaxy 框架](https://valaxy.site/) 搭建 |
-| 尚未找到的画师 | 本博客的首页和侧栏的背景 |
+| 尚未找到的画师 | 本博客首页和侧栏的背景 |
 
 ## 备份
 | 平台 | 说明 |
