@@ -71,9 +71,9 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
 
     notice: {
-      enable: false,
+      enable: true,
       hideInPages: false,
-      content: '公告！'
+      content: '博客施工中ε-(´・｀)'
     },
 
     menu: {
@@ -82,7 +82,7 @@ export default defineValaxyConfig<UserThemeConfig>({
        */
       custom: {
         title: '感谢',
-        url: 'string',
+        url: '/thanks',
         icon: 'i-ri-heart-line',
       }
     }

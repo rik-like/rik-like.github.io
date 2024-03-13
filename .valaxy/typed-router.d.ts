@@ -30,5 +30,6 @@ declare module 'vue-router/auto-routes' {
     '/posts/角色设定的多个面向': RouteRecordInfo<'/posts/角色设定的多个面向', '/posts/角色设定的多个面向', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
+    '/thanks/': RouteRecordInfo<'/thanks/', '/thanks', Record<never, never>, Record<never, never>>,
   }
 }
