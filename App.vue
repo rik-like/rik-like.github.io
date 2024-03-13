@@ -15,14 +15,12 @@ onMounted(() => {
   utterScript.setAttribute('theme', 'github-light')
 
   // 挂载至 .comment，你也可以通过修改 selector 挂载至其他地方
-  const commentContainer = document.querySelector('.comment')
+  const commentContainer = document.querySelector('footer')
   if (commentContainer)
     commentContainer.appendChild(utterScript)
 })
 </script>
 
 <template>
-  <!-- try it -->
-  <div>
-  </div>
+
 </template>

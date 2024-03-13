@@ -10,7 +10,7 @@ tags:
   - 博客框架
 # aplayer: true
 # type: bilibili
-excerpt: "静态博客框架 Valaxy 的个人使用笔记"
+excerpt: 静态博客框架 Valaxy 的个人使用笔记
 end: false
 ---
 
