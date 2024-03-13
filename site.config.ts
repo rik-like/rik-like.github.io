@@ -7,7 +7,7 @@ export default defineSiteConfig({
   languages: ['zh-CN'],
   favicon: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
   title: '黎可の世界',
-  subtitle: '只是一片空洞',
+  subtitle: '一片空洞',
   author: {
     name: '黎可',
     avatar: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',

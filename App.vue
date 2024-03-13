@@ -23,5 +23,6 @@ onMounted(() => {
 
 <template>
   <!-- try it -->
-  <div />
+  <div>
+  </div>
 </template>
