@@ -11,7 +11,6 @@ tags:
 # aplayer: true
 # type: bilibili
 excerpt: "静态博客框架 Valaxy 的个人使用笔记"
-draft: true
 end: false
 ---
 
