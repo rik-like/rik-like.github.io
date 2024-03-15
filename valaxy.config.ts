@@ -81,8 +81,8 @@ export default defineValaxyConfig<UserThemeConfig>({
        * @zh 最右侧的导航图标
        */
       custom: {
-        title: '感谢',
-        url: '/thanks',
+        title: '关于',
+        url: '/site',
         icon: 'i-ri-heart-line',
       }
     }

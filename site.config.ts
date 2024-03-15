@@ -2,9 +2,8 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
   mode: 'dark',
-  url: 'https://rik-like.github.io/',
+  url: 'https://rik-like-github-io.pages.dev/',
   lang: 'zh-CN',
-  languages: ['zh-CN'],
   favicon: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
   title: '黎可の世界',
   subtitle: '一片空洞',
