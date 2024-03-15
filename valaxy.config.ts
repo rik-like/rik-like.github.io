@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: ['黎可', 'の','世界'],
+      title: '黎可的世界',
       cloud: {
         enable: true,
       },
@@ -73,7 +73,7 @@ export default defineValaxyConfig<UserThemeConfig>({
     notice: {
       enable: true,
       hideInPages: false,
-      content: '博客施工中ε-(´・｀)'
+      content: '博客施工中'
     },
 
     menu: {

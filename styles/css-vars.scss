@@ -11,12 +11,15 @@
 }
 
 .site-author-name a {
-    display: none;
+    color: var(--va-c-text);
+    font-family: var(--va-font-serif);
+    font-weight: 900;
+    margin-bottom: 0rem;
 }
 
-// .site-name {
-   
-// }
+.site-name {
+    display: none;
+}
 
 .site-nav+hr {
     display: none;

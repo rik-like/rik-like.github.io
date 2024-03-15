@@ -6,7 +6,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   favicon: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
   title: '黎可の世界',
-  subtitle: '一片空洞',
+  subtitle: '黎明之前，黑暗最深',
   author: {
     name: '黎可',
     avatar: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
@@ -105,28 +105,33 @@ export default defineSiteConfig({
     type: 'fuse'
   },
 
+  encrypt: {
+    enable: true,
+  },
+
   sponsor: {
     enable: true,
-    title: '感谢你的帮助',
+    description: '饿饿，饭饭',
     methods: [
-      {
-        name: '支付宝',
-        url: '',
-        color: '#00A3EE',
-        icon: 'i-ri-alipay-line',
-      },
-      {
-        name: 'QQ 支付',
-        url: '',
-        color: '#12B7F5',
-        icon: 'i-ri-qq-line',
-      },
       {
         name: '微信支付',
         url: '',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
+      // {
+      //   name: '支付宝',
+      //   url: '',
+      //   color: '#00A3EE',
+      //   icon: 'i-ri-alipay-line',
+      // }
+      // {
+      //   name: 'QQ 支付',
+      //   url: '',
+      //   color: '#12B7F5',
+      //   icon: 'i-ri-qq-line',
+      // },
+      
     ],
   },
 })
