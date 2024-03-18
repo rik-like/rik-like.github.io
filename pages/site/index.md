@@ -11,7 +11,9 @@ end: false
 | 对象 | 缘由 |
 | ------- | ---- |
 | [云游君](https://www.yunyoujun.cn/) | 本博客基于其 [Valaxy 框架](https://valaxy.site/) 搭建 |
-| 尚未找到的画师 | 本博客首页和侧栏的背景 |
+| 匿名 | 我的头像 |
+| [あすぱら](https://www.pixiv.net/users/14320305) | 本博客[首页背景](https://www.pixiv.net/artworks/59921192)的画师 |
+| 未知 | 本博客[侧栏背景](https://wallhaven.cc/w/nkjmld)的画师 |
 
 ## 备份
 | 平台 | 说明 |

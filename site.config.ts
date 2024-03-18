@@ -4,12 +4,12 @@ export default defineSiteConfig({
   mode: 'dark',
   url: 'https://rik-like-github-io.pages.dev/',
   lang: 'zh-CN',
-  favicon: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
-  title: '黎可の世界',
-  subtitle: '黎明之前，黑暗最深',
+  favicon: '/avatar.png',
+  title: '黎可的世界',
+  subtitle: '祝愿这个世界，好一点',
   author: {
     name: '黎可',
-    avatar: 'https://i2.100024.xyz/2024/03/12/brhi4j.webp',
+    avatar: '/avatar.png',
 
     status: {
       // emoji: '',
