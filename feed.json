@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "黎可的世界",
+    "home_page_url": "https://rik-like-github-io.pages.dev/",
+    "feed_url": "https://rik-like-github-io.pages.dev/feed.json",
+    "icon": "https://rik-like-github-io.pages.dev/avatar.png",
+    "author": {
+        "name": "黎可",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>准备</h2>\n<h3>环境</h3>\n<ul>\n<li>Node 14.18+</li>\n<li>pnpm</li>\n</ul>\n<p>::: details 选择 pnpm 的原因</p>\n<p>npm 会缓存此前下载的版本，因此可能</p>\n<p>:::</p>\n<h3>安装</h3>\n<p>::: co</p>\n",
+            "url": "https://rik-like-github-io.pages.dev/posts/hello-valaxy",
+            "title": "Valaxy 个人小记",
+            "date_modified": "2024-03-18T08:41:42.624Z",
+            "date_published": "2024-03-18T08:41:42.624Z",
+            "author": {
+                "name": "黎可",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>名字</h2>\n<h3>姓名</h3>\n<h3>昵称</h3>\n<h3>外号</h3>\n<h3>称号</h3>\n<h2>躯壳</h2>\n<h3>种族</h3>\n<h3>性别</h3>\n<h3>体征</h3>\n<h2>自我</h2>\n<h3>性格</h3>\n<h3>习惯</h3>\n<h3>用具</h3>\n<h3>着装</h3>\n<h2></h2>\n",
+            "url": "https://rik-like-github-io.pages.dev/posts/角色设定的多个面向",
+            "title": "角色设定的多个面向",
+            "date_modified": "2024-03-18T08:41:42.624Z",
+            "date_published": "2024-03-18T08:41:42.624Z",
+            "author": {
+                "name": "黎可",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

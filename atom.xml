@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rik-like-github-io.pages.dev/</id>
+    <title>黎可的世界</title>
+    <updated>2024-03-18T08:42:13.530Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>黎可</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://rik-like-github-io.pages.dev/"/>
+    <link rel="self" href="https://rik-like-github-io.pages.dev/atom.xml"/>
+    <logo>https://rik-like-github-io.pages.dev/avatar.png</logo>
+    <icon>https://rik-like-github-io.pages.dev/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 黎可</rights>
+    <entry>
+        <title type="html"><![CDATA[Valaxy 个人小记]]></title>
+        <id>https://rik-like-github-io.pages.dev/posts/hello-valaxy</id>
+        <link href="https://rik-like-github-io.pages.dev/posts/hello-valaxy"/>
+        <updated>2024-03-18T08:41:42.624Z</updated>
+        <content type="html"><![CDATA[<h2>准备</h2>
+<h3>环境</h3>
+<ul>
+<li>Node 14.18+</li>
+<li>pnpm</li>
+</ul>
+<p>::: details 选择 pnpm 的原因</p>
+<p>npm 会缓存此前下载的版本，因此可能</p>
+<p>:::</p>
+<h3>安装</h3>
+<p>::: co</p>
+]]></content>
+        <author>
+            <name>黎可</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-18T08:41:42.624Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[角色设定的多个面向]]></title>
+        <id>https://rik-like-github-io.pages.dev/posts/角色设定的多个面向</id>
+        <link href="https://rik-like-github-io.pages.dev/posts/角色设定的多个面向"/>
+        <updated>2024-03-18T08:41:42.624Z</updated>
+        <content type="html"><![CDATA[<h2>名字</h2>
+<h3>姓名</h3>
+<h3>昵称</h3>
+<h3>外号</h3>
+<h3>称号</h3>
+<h2>躯壳</h2>
+<h3>种族</h3>
+<h3>性别</h3>
+<h3>体征</h3>
+<h2>自我</h2>
+<h3>性格</h3>
+<h3>习惯</h3>
+<h3>用具</h3>
+<h3>着装</h3>
+<h2></h2>
+]]></content>
+        <author>
+            <name>黎可</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-18T08:41:42.624Z</published>
+    </entry>
+</feed>
